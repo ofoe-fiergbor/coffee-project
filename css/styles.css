@@ -1,0 +1,43 @@
+.navbar-custom{
+    background-color: #a94442;
+    border-radius: 0px;
+    margin-bottom:0px;
+    border: none;
+    
+}
+
+.navbar-custom .navbar-brand {
+    font-weight: bold;
+    color: #fff;
+}
+.navbar-custom .navbar-nav>li>a {
+    color: #fff;
+}
+.carousel-custom {
+    height: 550px;
+}
+
+.about-coffee{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.coffee-types{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.footer{
+    background-color: #a94442;
+    padding: 1.5rem 0;
+    color: #fff;
+}
+.thumbnail-custom>img{
+    max-width: 252.5px;
+    max-height: 165.2px;
+}
+.address{
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 2.5rem;
+    padding-top: 2rem;
+}
